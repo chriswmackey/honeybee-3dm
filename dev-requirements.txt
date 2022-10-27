@@ -11,4 +11,4 @@ twine==3.4.1
 wheel==0.36.2
 setuptools==57.0.0
 importlib-metadata==4.3.1
-pydantic-openapi-helper==0.2.9
+pydantic-openapi-helper==0.2.10
